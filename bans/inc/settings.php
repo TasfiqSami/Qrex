@@ -6,13 +6,13 @@ class Settings {
         $this->lang = 'en_US.utf8';
 
         // Database information
-        $this->host = 'localhost';
+        $this->host = 'panel.qnodes.xyz';
         $this->port = 3306;
 
-        $this->database = 'litebans';
+        $this->database = 's1_litebans';
 
-        $this->username = '';
-        $this->password = '';
+        $this->username = 'u1_LbuS2TUPxX';
+        $this->password = 'sTSh^suiD8=99c5.17JJ@43O';
 
         // If you set a table prefix in config.yml, set it here as well
         $this->table_prefix = "litebans_";
